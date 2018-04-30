@@ -1,2 +1,0 @@
-# jdspider
-demo
